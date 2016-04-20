@@ -6,5 +6,6 @@ class vojta
 		//prdel
 		/prdel2
         Console.ReadLine();
+//tohle je uprava v mastrovy
     }
 }
