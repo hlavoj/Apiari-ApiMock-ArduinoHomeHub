@@ -4,6 +4,7 @@ class vojta
         Console.WriteLine("HEllo word");
         Console.ReadLine();
 //tohle je uprava v test branche
+// tohle je uprava z betaversion 
 
     }
 }
